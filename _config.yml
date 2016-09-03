@@ -1,19 +1,4 @@
-name: Luis Alt
-favicon: null
-layout_spectrum: 0.5578717838507146
 typography_spectrum: 0.3673599923495203
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#F7EDF0'
@@ -25,4 +10,20 @@ color:
   lightness: 0.9359098700806499
   saturation: 0.3947317225392908
   rhythmicContrast: 0.23242783197201788
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.5578717838507146
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Luis Alt
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Service + Business + Design
 purpose: []
